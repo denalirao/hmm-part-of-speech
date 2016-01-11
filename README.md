@@ -7,7 +7,7 @@
 	
 	They are an interesting way to look at the emissions and transitions of a system, and so they lend themselves to
 	analysis and modeling of temporal data. This includes data for speech recognition, speech analysis, handwriting
-	analysis, and more.
+	analysis, biological sequence alignment, and more.
 	
 	Because hidden Markov models are stochastic and almost completely based on probabilities, they are very sensitive to
 	even small changes in their parameters. Depending on the desired application, it can be simple or very difficult to
